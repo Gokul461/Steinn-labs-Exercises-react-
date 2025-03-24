@@ -17,7 +17,7 @@ A **React-based** playground for experimenting with **Flexbox layouts**, styled 
   - `Chip`
   - `Dropdown`
   - `Text field`
-
+- **Weather Application** 🌦️
 
 ## 🚀 Running the App
 
@@ -33,13 +33,19 @@ Then open **http://localhost:5173** in your browser.
 flex-playground/
 │── src/
 │   ├── components/
-│   │   ├── FlexContainer.jsx
-│   │   ├── Listing.jsx
-│   │   ├── Button.jsx
-│   │   ├── Card.jsx
-│   │   ├── Dialog.jsx....
-│   ├── App.jsx
-│   ├── main.jsx
+│   │   ├── Exercises/
+│   │   │   ├── FlexPlayground.js
+│   │   │   ├── ListingFromApi.js
+│   │   │   ├── Login.js
+│   │   │   ├── Navbar.js
+│   │   │   └── UiComponents.js
+│   │   ├── pages/
+│   │   │   ├── Home.js
+│   │   │   └── Weather.js
+│   ├── App.tsx
+│   ├── index.tsx
+│   ├── types/
+│   │   └── index.ts
 │── public/
 │── index.html
 │── tailwind.config.js
@@ -47,8 +53,9 @@ flex-playground/
 │── package.json
 │── README.md
 ```
-# Model UI
-![image](https://github.com/user-attachments/assets/4421017b-dcbd-4c4c-b20d-5e5e40243ecc)
+
+## 🌦️ Weather Application
+The weather application allows users to fetch and display weather information for a specified location.
 
 ## 🎨 Using Tailwind CSS
 Tailwind classes are used to design the Flexbox components. Example:
@@ -61,6 +68,9 @@ Tailwind classes are used to design the Flexbox components. Example:
   </div>
 </div>
 ```
+# Model UI
+![image](https://github.com/user-attachments/assets/4421017b-dcbd-4c4c-b20d-5e5e40243ecc)
+
 
 ## 📜 License
 This project is **open-source** and available under the **MIT License**.
