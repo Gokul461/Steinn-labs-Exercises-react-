@@ -17,6 +17,7 @@ A **React-based** playground for experimenting with **Flexbox layouts**, styled 
   - `Chip`
   - `Dropdown`
   - `Text field`
+- **Login page with loading**
 - **Weather Application** 🌦️
 
 ## 🚀 Running the App
@@ -70,6 +71,16 @@ Tailwind classes are used to design the Flexbox components. Example:
 ```
 # Model UI
 ![image](https://github.com/user-attachments/assets/4421017b-dcbd-4c4c-b20d-5e5e40243ecc)
+![image](https://github.com/user-attachments/assets/1a1198fc-3fd2-45da-8892-886f7bccdad4)
+![image](https://github.com/user-attachments/assets/feb818d5-b344-4975-8585-02e5c259d2b1)
+![image](https://github.com/user-attachments/assets/e1bbf9cb-cdae-4bdb-b572-b8129255d5b9)
+![image](https://github.com/user-attachments/assets/1d19c8c2-9025-49c7-ad4d-174a5ef675e0)
+![image](https://github.com/user-attachments/assets/849dcd5d-4f7c-408d-a9ef-08c4c05a047e)
+
+
+
+
+
 
 
 ## 📜 License
